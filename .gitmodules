@@ -1,0 +1,9 @@
+[submodule "SourceCode/components/Semihosting"]
+	path = SourceCode/components/Semihosting
+	url = C:/Users/michael/AppData/Roaming/CooCox/CoIDE/repo/coocox-master/Semihosting
+[submodule "SourceCode/components/C_library"]
+	path = SourceCode/components/C_library
+	url = C:/Users/michael/AppData/Roaming/CooCox/CoIDE/repo/coocox-master/C_library
+[submodule "SourceCode/components/Retarget_printf"]
+	path = SourceCode/components/Retarget_printf
+	url = C:/Users/michael/AppData/Roaming/CooCox/CoIDE/repo/coocox-master/Retarget_printf
